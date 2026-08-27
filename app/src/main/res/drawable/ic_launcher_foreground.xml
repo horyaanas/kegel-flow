@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center petal -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24 C54,24 42,38 42,52 C42,62 47,68 54,72 C61,68 66,62 66,52 C66,38 54,24 54,24 Z" />
+    <!-- Left petal -->
+    <path
+        android:fillColor="#E0F2FE"
+        android:pathData="M54,42 C46,38 30,46 30,58 C30,66 38,70 46,68 C48,60 52,48 54,42 Z" />
+    <!-- Right petal -->
+    <path
+        android:fillColor="#E0F2FE"
+        android:pathData="M54,42 C62,38 78,46 78,58 C78,66 70,70 62,68 C60,60 56,48 54,42 Z" />
+    <!-- Base curve -->
+    <path
+        android:fillColor="#CCFBF1"
+        android:pathData="M32,68 C38,76 46,80 54,80 C62,80 70,76 76,68 C66,74 42,74 32,68 Z" />
+</vector>
